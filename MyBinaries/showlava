@@ -1,0 +1,4 @@
+glava --desktop --force-mod=radial > /dev/null & 
+glava --desktop --force-mod=bars > /dev/null &
+
+echo "Enjoy the beats :)"
